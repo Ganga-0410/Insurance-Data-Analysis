@@ -20,8 +20,8 @@ This project showcases an interactive **Power BI dashboard** built for analyzing
 **- Claim Amount by Age Group:** Comparative claims across different age categories.
 
 # 📂 Project Files
-**- InsuranceDataAnalysis.pbix** → Power BI file with all visuals and datasets.
+**- Project 2- Insurance Data Analysis.pbix** → Power BI file with all visuals and datasets.
 
-**- Dataset.csv** → Source data used for the report.
+**- InsuranceData.csv** → Source data used for the report.
 
 **- README.md** → This documentation file.
