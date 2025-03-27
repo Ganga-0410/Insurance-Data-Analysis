@@ -22,7 +22,7 @@ This project showcases an interactive **Power BI dashboard** built for analyzing
 # 📂 Project Files
 **- Project 2- Insurance Data Analysis.pbix** → Power BI file with all visuals and datasets.
 
-**- InsuranceData.ipynd** → .ipynb file contain EDA of this Insurance Data
+**- InsuranceData.ipynb** → .ipynb file contain EDA of this Insurance Data
 
 **- InsuranceData.csv** → Source data used for the report.
 
